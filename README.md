@@ -1,2 +1,2 @@
 # translation
-This is a tiny task assisting me learning English
+A small task that helps with memorizing vocabulary
