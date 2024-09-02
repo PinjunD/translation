@@ -1,2 +1,2 @@
 # translation
-A small task that helps with memorizing vocabulary
+A small task that helps me memorize vocabulary
